@@ -1,0 +1,11 @@
+D:\All Codes and Projects\Design Patterns\StrategyPattern\bin\Debug\netcoreapp2.1\StrategyPattern.deps.json
+D:\All Codes and Projects\Design Patterns\StrategyPattern\bin\Debug\netcoreapp2.1\StrategyPattern.runtimeconfig.json
+D:\All Codes and Projects\Design Patterns\StrategyPattern\bin\Debug\netcoreapp2.1\StrategyPattern.runtimeconfig.dev.json
+D:\All Codes and Projects\Design Patterns\StrategyPattern\bin\Debug\netcoreapp2.1\StrategyPattern.dll
+D:\All Codes and Projects\Design Patterns\StrategyPattern\bin\Debug\netcoreapp2.1\StrategyPattern.pdb
+D:\All Codes and Projects\Design Patterns\StrategyPattern\obj\Debug\netcoreapp2.1\StrategyPattern.csprojAssemblyReference.cache
+D:\All Codes and Projects\Design Patterns\StrategyPattern\obj\Debug\netcoreapp2.1\StrategyPattern.csproj.CoreCompileInputs.cache
+D:\All Codes and Projects\Design Patterns\StrategyPattern\obj\Debug\netcoreapp2.1\StrategyPattern.AssemblyInfoInputs.cache
+D:\All Codes and Projects\Design Patterns\StrategyPattern\obj\Debug\netcoreapp2.1\StrategyPattern.AssemblyInfo.cs
+D:\All Codes and Projects\Design Patterns\StrategyPattern\obj\Debug\netcoreapp2.1\StrategyPattern.dll
+D:\All Codes and Projects\Design Patterns\StrategyPattern\obj\Debug\netcoreapp2.1\StrategyPattern.pdb
