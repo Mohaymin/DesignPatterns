@@ -9,20 +9,28 @@ namespace StrategyPattern
         public IFlyBehavior flyBehavior;
         public IQuackBehavior quackBehavior;
 
-        public void swim()
+        public void Swim()
         {
             Console.WriteLine("I'm swimming!");
         }
-        public abstract void assignFlyBehavior();
-        public abstract void assignQuackBehavior();
 
-        public void tryToFly()
+        /*
+         * The following two abstract classes
+         * forces the programmer to initialize
+         * IFlyBehavior and IQuackBehavior.
+         * Note that if these two variables are un-initialized
+         * we will get null pointer exception error
+         */
+        public abstract void AssignFlyBehavior();
+        public abstract void AssignQuackBehavior();
+
+        public void TryToFly()
         {
-            flyBehavior.fly();
+            flyBehavior.Fly();
         }
-        public void makeSound()
+        public void MakeSound()
         {
-            quackBehavior.quack();
+            quackBehavior.Quack();
         }
     }
 }

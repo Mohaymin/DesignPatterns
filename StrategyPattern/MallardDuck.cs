@@ -8,16 +8,16 @@ namespace StrategyPattern
     {
         public MallardDuck() : base()
         {
-            assignFlyBehavior();
-            assignQuackBehavior();
+            AssignFlyBehavior();
+            AssignQuackBehavior();
         }
 
-        public override void assignFlyBehavior()
+        public override void AssignFlyBehavior()
         {
             flyBehavior = new CanFly();
         }
 
-        public override void assignQuackBehavior()
+        public override void AssignQuackBehavior()
         {
             quackBehavior = new Quack();
         }

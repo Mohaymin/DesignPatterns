@@ -6,7 +6,7 @@ namespace StrategyPattern
 {
     class Squeak : IQuackBehavior
     {
-        public void quack()
+        public void Quack()
         {
             Console.WriteLine("Squeak! Squeak!!");
         }

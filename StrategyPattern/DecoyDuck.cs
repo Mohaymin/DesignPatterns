@@ -8,15 +8,15 @@ namespace StrategyPattern
     {
         public DecoyDuck() : base()
         {
-            assignFlyBehavior();
-            assignQuackBehavior();
+            AssignFlyBehavior();
+            AssignQuackBehavior();
         }
-        public override void assignFlyBehavior()
+        public override void AssignFlyBehavior()
         {
             flyBehavior = new CanNotFly();
         }
 
-        public override void assignQuackBehavior()
+        public override void AssignQuackBehavior()
         {
             quackBehavior = new Mute();
         }

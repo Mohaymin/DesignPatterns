@@ -6,7 +6,7 @@ namespace StrategyPattern
 {
     class CanFly : IFlyBehavior
     {
-        public void fly()
+        public void Fly()
         {
             Console.WriteLine("I'm flying hihg!");
         }

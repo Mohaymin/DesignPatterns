@@ -6,7 +6,7 @@ namespace StrategyPattern
 {
     class Mute : IQuackBehavior
     {
-        public void quack()
+        public void Quack()
         {
             Console.WriteLine("...[silence]");
         }
